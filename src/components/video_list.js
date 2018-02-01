@@ -6,7 +6,7 @@ const VideoList = (props) => {
 		return (
 			<VideoListItem 
 			onVideoSelect = {props.onVideoSelect} //coming from index props
-			key={video.etag} 
+			key={video.etag}
 			video={video} />
 		);
 	});
