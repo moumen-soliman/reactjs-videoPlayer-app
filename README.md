@@ -2,7 +2,7 @@
 
 Video Player application using Youtube API Search with max 5 videos on list with ajax request
 
-# Familiar with Git?
+# Install
  Checkout this repo, install dependencies, then start the gulp process with the following:<br>
 
 $ git clone https://github.com/moumen-soliman/reactjs-videoPlayer-app.git
